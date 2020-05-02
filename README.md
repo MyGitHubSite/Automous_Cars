@@ -12,7 +12,7 @@ JetBot.
 1 - Donkey Car Magnet RasPi   
 2 - Donkey Car Desert Monster RasPi   
 3 - Donkey Car Short Course Truck RasPi.  
-4 - Donkey Car Blaze Nano.  
+4 - Donkey Car Blaze Jetson Nano.  
 
 PiBorg.  
 1 - YetiBorg RasPi.  
