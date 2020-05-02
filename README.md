@@ -1,3 +1,14 @@
+IMU
+Actuator
+PVM
+ESC
+Camera
+MicroProcessor
+Alexa
+Lane Following/Wall Follower
+Behavior Cloning/Reinforcement Learning
+
+
 
 JetBot.  
 1 - JetBot.  
